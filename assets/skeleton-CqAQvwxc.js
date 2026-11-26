@@ -1,1 +1,0 @@
-import{Ic as e,hi as t}from"./index-B9ukmIN1.js";var n=e();function r({className:e,...r}){return(0,n.jsx)(`div`,{"data-slot":`skeleton`,className:t(`animate-pulse motion-reduce:animate-none rounded-[var(--dk-skeleton-radius,calc(var(--radius)*1))] bg-[color:var(--dk-skeleton-bg,var(--muted))]`,e),...r})}export{r as t};

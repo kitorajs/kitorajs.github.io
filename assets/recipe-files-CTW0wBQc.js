@@ -1,0 +1,1 @@
+import{Ic as e}from"./index-q72zUtm9.js";import{n as t}from"./code-block-BXiOgbej.js";var n=e();function r({files:e}){return(0,n.jsx)(t,{className:`mt-4`,maxHeight:520,files:e.map(e=>({name:e.name,code:e.source,lineNumbers:!0}))})}export{r as default};

@@ -1,1 +1,0 @@
-import{Ic as e,hi as t}from"./index-B9ukmIN1.js";var n=e();function r({children:e,testId:r,className:i,minHeight:a}){return(0,n.jsx)(`div`,{"data-testid":r,className:t(`rounded-xl border bg-background p-4 shadow-sm`,i),style:a===void 0?void 0:{minHeight:a},children:e})}export{r as t};

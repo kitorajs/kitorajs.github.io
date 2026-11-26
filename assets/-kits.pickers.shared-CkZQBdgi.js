@@ -1,0 +1,1 @@
+import{Ic as e,hi as t}from"./index-q72zUtm9.js";var n=e();function r({children:e,testId:r,className:i}){return(0,n.jsx)(`div`,{"data-testid":r,className:t(`min-h-10`,i),children:e})}export{r as t};
