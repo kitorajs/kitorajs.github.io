@@ -1,0 +1,1 @@
+import{Mi as e}from"./index-9y5uwRd3.js";var t=e(`chevrons-down-up`,[[`path`,{d:`m7 20 5-5 5 5`,key:`13a0gw`}],[`path`,{d:`m7 4 5 5 5-5`,key:`1kwcof`}]]);export{t};

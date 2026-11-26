@@ -1,1 +1,0 @@
-import{t as e}from"./kit-docs-DpYhPoxM.js";import{Ic as t}from"./index-q72zUtm9.js";import{t as n}from"./kits.tabster.docs._topic-BQBT-x8J.js";import"./kit-gallery-Atvibnty.js";var r=t();function i(){let{topic:t}=n.useParams();return(0,r.jsx)(e,{gallery:`/kits/tabster`,topic:t})}export{i as component};

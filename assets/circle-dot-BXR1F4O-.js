@@ -1,0 +1,1 @@
+import{Mi as e}from"./index-9y5uwRd3.js";var t=e(`circle-dot`,[[`circle`,{cx:`12`,cy:`12`,r:`10`,key:`1mglay`}],[`circle`,{cx:`12`,cy:`12`,r:`1`,key:`41hilf`}]]);export{t};

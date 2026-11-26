@@ -1,3 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/editor-BoU7dUFD.js"])))=>i.map(i=>d[i]);
-import{r as e}from"./rolldown-runtime-S-ySWqyJ.js";import{Bc as t,Cc as n,Ic as r}from"./index-q72zUtm9.js";import{a as i}from"./shell-CjiPIswq.js";var a=e(t(),1),o=r(),s=20,c=16,l=(0,a.lazy)(()=>n(()=>import(`./editor-BoU7dUFD.js`).then(e=>e.f).then(e=>({default:e.CodeEditorPreset})),__vite__mapDeps([0])));function u(e){let t=(e.value??e.defaultValue??``).split(`
-`).length;return(0,o.jsx)(a.Suspense,{fallback:(0,o.jsx)(i,{kind:`code`,header:e.header??e.filename!==void 0?`code`:!1,statusBar:e.statusBar!==!1,bodyStyle:{height:e.height??t*s+c,minHeight:e.minHeight,maxHeight:e.maxHeight},className:e.className}),children:(0,o.jsx)(l,{...e})})}export{u as t};

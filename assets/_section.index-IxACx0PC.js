@@ -1,1 +1,0 @@
-import{Ic as e,Tc as t,kc as n,r}from"./index-q72zUtm9.js";import{i,r as a,t as o}from"./docs-CVgVHgOP.js";var s=e();function c(){let{section:e}=r.useParams(),c=a(`/docs/${e}`);if(c)return(0,s.jsx)(n,{to:c,replace:!0});let l=o.find(t=>t.section===e);return l?(0,s.jsx)(n,{to:i(l),replace:!0}):(0,s.jsx)(t,{})}export{c as component};

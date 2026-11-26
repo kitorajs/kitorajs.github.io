@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-S-ySWqyJ.js";import{Bc as t}from"./index-9y5uwRd3.js";var n=e(t(),1);function r(e){let[t,r]=(0,n.useState)();return(0,n.useEffect)(()=>{if(!e){r(void 0);return}let t=URL.createObjectURL(e);return r(t),()=>URL.revokeObjectURL(t)},[e]),t}export{r as t};

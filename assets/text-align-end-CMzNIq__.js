@@ -1,1 +1,0 @@
-import{Mi as e}from"./index-q72zUtm9.js";var t=e(`text-align-center`,[[`path`,{d:`M21 5H3`,key:`1fi0y6`}],[`path`,{d:`M17 12H7`,key:`16if0g`}],[`path`,{d:`M19 19H5`,key:`vjpgq2`}]]),n=e(`text-align-end`,[[`path`,{d:`M21 5H3`,key:`1fi0y6`}],[`path`,{d:`M21 12H9`,key:`dn1m92`}],[`path`,{d:`M21 19H7`,key:`4cu937`}]]);export{t as n,n as t};

@@ -1,0 +1,1 @@
+import{W as e}from"./time-jlVD_Pfs.js";import{Ho as t,Wo as n}from"./index-9y5uwRd3.js";function r(r){let i=n(r),a=t();return e(i,new Date(a))}export{r as t};

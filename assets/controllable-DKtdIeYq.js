@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-S-ySWqyJ.js";import{Bc as t}from"./index-9y5uwRd3.js";var n=e(t(),1);function r(e,t,r){let[i,a]=(0,n.useState)(t),o=(0,n.useRef)(r);o.current=r;let s=(0,n.useCallback)(e=>{a(e),o.current?.(e)},[]);return[e===void 0?i:e,s]}export{r as t};

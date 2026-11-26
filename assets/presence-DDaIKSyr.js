@@ -1,0 +1,1 @@
+import{Jo as e}from"./index-9y5uwRd3.js";function t(t){return e(t)}export{t};
