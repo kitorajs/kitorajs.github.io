@@ -1,0 +1,1 @@
+function e(e){return{panels:e,spec:e=>e,specs:e=>[...e]}}export{e as t};

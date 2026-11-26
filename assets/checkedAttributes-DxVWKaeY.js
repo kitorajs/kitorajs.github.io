@@ -1,0 +1,1 @@
+function e(e){return e?{"data-checked":``}:{"data-unchecked":``}}var t={checked:e};function n(t){return{checked:n=>t?null:e(n)}}export{n,t};

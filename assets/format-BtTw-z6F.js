@@ -1,0 +1,1 @@
+function e(e,t=99){return!Number.isFinite(e)||e<=0?``:e>t?`${t}+`:String(Math.floor(e))}function t(e){return e.split(/\s+/).filter(e=>e!==``).slice(0,2).map(e=>e.charAt(0).toUpperCase()).join(``)}function n(e){let t=[];for(let n of e){let e=t[t.length-1];e&&e.group===n.group?e.items.push(n):t.push({group:n.group,items:[n]})}return t}export{n,t as r,e as t};

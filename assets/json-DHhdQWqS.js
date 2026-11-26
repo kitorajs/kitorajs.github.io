@@ -1,0 +1,1 @@
+function e(e){return Array.isArray(e)}function t(t){return typeof t!=`object`||!t||e(t)?null:t}export{t};

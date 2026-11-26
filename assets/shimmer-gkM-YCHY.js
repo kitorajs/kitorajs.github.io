@@ -1,0 +1,1 @@
+import"./rolldown-runtime-S-ySWqyJ.js";import{Bc as e,Ic as t,hi as n}from"./index-B9ukmIN1.js";e();var r=t();function i({as:e=`span`,active:t=!0,className:i,...a}){return(0,r.jsx)(e,{"data-slot":`shimmer`,"data-active":t?``:void 0,className:n(t&&`text-muted-foreground motion-safe:animate-shimmer`,i),...a})}export{i as t};

@@ -1,0 +1,1 @@
+function e(e,t={}){let n=t.id??`palette.toggle`;return{bind(r,i,a){let o=e.commands.add(n,t.category===void 0?{title:a.title,run:i}:{title:a.title,category:t.category,run:i}),s=e.keymap.add(t.layer??`default`,[{key:r,command:n,overlay:`*`}]);return()=>{s.dispose(),o()}}}}export{e as t};

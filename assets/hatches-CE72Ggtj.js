@@ -1,0 +1,1 @@
+function e(e){let t=0;for(let n of Object.values(e))for(let e of Object.values(n))t+=e??0;return t}export{e as t};

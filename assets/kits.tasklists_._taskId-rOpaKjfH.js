@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/kits.tasklists_._taskId-BxXzyNTT.js","assets/index-BnEWEhB6.css"])))=>i.map(i=>d[i]);
+import{Cc as e,Dc as t,Ec as n}from"./index-B9ukmIN1.js";var r=t(`/kits/tasklists_/$taskId`)({component:n(()=>e(()=>import(`./kits.tasklists_._taskId-BxXzyNTT.js`),__vite__mapDeps([0,1])),`component`)});export{r as t};

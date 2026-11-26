@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 200" width="880" height="200" role="img" aria-label="Kitora: React UI built from primitives up">
+  <title>Kitora: React UI built from primitives up</title>
+  <g transform="translate(40 52) scale(1.85)">
+  <g transform="translate(0 9.5) scale(1.0625)">
+  <path d="M2 6.5a4.5 4.5 0 0 1 4.5-4.5h4a4.5 4.5 0 0 1 4.5 4.5v4a4.5 4.5 0 0 1-4.5 4.5h-4a4.5 4.5 0 0 1-4.5-4.5z" fill="#F3F5F9"/>
+  <path d="M17 8.5a6.5 6.5 0 1 0 13 0a6.5 6.5 0 1 0-13 0z" fill="#8AA8F7"/>
+  <path d="M2 21.5a4.5 4.5 0 0 1 4.5-4.5h4a4.5 4.5 0 0 1 4.5 4.5v4a4.5 4.5 0 0 1-4.5 4.5h-4a4.5 4.5 0 0 1-4.5-4.5z" fill="#F3F5F9"/>
+  <path d="M17 17a13 13 0 0 1 13 13h-11a2 2 0 0 1-2-2z" fill="#F3F5F9"/>
+  </g>
+  <g transform="translate(48 0)">
+    <path d="M9.2 25.65L17.69 40L22.34 40L12.07 22.64L21.25 13L15.73 13L4 25.3L4 13L0 13L0 40L4 40L4 31.1Z" fill="#F3F5F9"/>
+    <path d="M26 22h4v18h-4z" fill="#F3F5F9"/>
+    <path d="M26 13h4v4h-4z" fill="#8AA8F7"/>
+    <path d="M35 15h4v17a4 4 0 0 0 4 4h2v4h-2a8 8 0 0 1-8-8z" fill="#F3F5F9"/>
+    <path d="M32 22h12v4h-12z" fill="#F3F5F9"/>
+    <path d="M48 31a9 9 0 1 0 18 0a9 9 0 1 0-18 0zM52 31a5 5 0 1 1 10 0a5 5 0 1 1-10 0z" fill-rule="evenodd" fill="#F3F5F9"/>
+    <path d="M70 22h4v18h-4z" fill="#F3F5F9"/>
+    <path d="M70 32a10 10 0 0 1 10-10h3v4h-3a6 6 0 0 0-6 6z" fill="#F3F5F9"/>
+    <path d="M85 31a9 9 0 1 0 18 0a9 9 0 1 0-18 0zM89 31a5 5 0 1 1 10 0a5 5 0 1 1-10 0z" fill-rule="evenodd" fill="#F3F5F9"/>
+    <path d="M101 22h4v18h-4z" fill="#F3F5F9"/>
+  </g>
+  </g>
+  <text x="840" y="112" text-anchor="end" fill="#B4BAC6" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="500">React UI built from primitives up</text>
+</svg>

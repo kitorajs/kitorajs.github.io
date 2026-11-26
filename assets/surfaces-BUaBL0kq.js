@@ -1,0 +1,1 @@
+var e=`rounded-[var(--dk-card-kit-radius,var(--radius-lg))] border border-[color:var(--dk-card-kit-edge,var(--color-border))] bg-[color:var(--dk-card-kit-bg,var(--color-card))]`,t=`rounded-[var(--dk-card-kit-radius,var(--radius-lg))] border border-[color:var(--dk-card-kit-edge,var(--color-border))]`;export{t as n,e as t};

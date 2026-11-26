@@ -1,0 +1,1 @@
+function e(e){let t=e??(typeof document>`u`?null:document.documentElement);return t?getComputedStyle(t).direction===`rtl`:!1}export{e as t};

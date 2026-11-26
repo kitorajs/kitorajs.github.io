@@ -1,0 +1,1 @@
+function e(e=typeof localStorage>`u`?null:localStorage){return{load:t=>e?.getItem(t)??null,save:(t,n)=>e?.setItem(t,n)}}function t(e={}){let t=new Map(Object.entries(e));return{load:e=>t.get(e)??null,save:(e,n)=>{t.set(e,n)},entries:()=>t}}export{t as n,e as t};

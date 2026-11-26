@@ -1,0 +1,1 @@
+function e(e,t=!1){return t?`mixed`:e?`true`:`false`}function t(e,t=!1){return t?!0:!e}export{t as n,e as t};

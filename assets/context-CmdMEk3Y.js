@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-S-ySWqyJ.js";import{Bc as t}from"./index-B9ukmIN1.js";var n=e(t(),1),r=(0,n.createContext)(null);function i(){let e=(0,n.useContext)(r);if(!e)throw Error(`useShell: render this inside <AppShell>`);return e}function a(){return(0,n.useContext)(r)}export{a as n,i as r,r as t};

@@ -1,0 +1,1 @@
+import{t as e}from"./kit-docs-BUovISd0.js";import{Ic as t}from"./index-B9ukmIN1.js";import{t as n}from"./kits.tasklists.docs._topic-BAONWtpQ.js";import"./kit-gallery-Bph7isB2.js";var r=t();function i(){let{topic:t}=n.useParams();return(0,r.jsx)(e,{gallery:`/kits/tasklists`,topic:t})}export{i as component};

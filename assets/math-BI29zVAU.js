@@ -1,0 +1,1 @@
+function e(e,t,n){return Math.min(Math.max(e,t),n)}var t=new Map;function n(e,n,r){let i=JSON.stringify([n,r]),a=t.get(i);return a||(a=new Intl.NumberFormat(n,r),t.set(i,a)),a.format(e)}export{n,e as t};

@@ -1,0 +1,1 @@
+import{Ic as e,wc as t}from"./index-B9ukmIN1.js";import{t as n}from"./site-header-DRFpMwjC.js";var r=e();function i(){return(0,r.jsxs)(`div`,{className:`min-h-dvh bg-background text-foreground`,children:[(0,r.jsx)(n,{maxWidth:`max-w-7xl`}),(0,r.jsx)(`main`,{children:(0,r.jsx)(t,{})})]})}export{i as component};
