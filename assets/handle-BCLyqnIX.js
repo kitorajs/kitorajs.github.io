@@ -1,0 +1,1 @@
+import{fc as e}from"./index-BZuUy872.js";function t(){let t=e(),r=t.getState(),i=n(r);return{open:(e,n=null)=>t.openWithPayload(e,n),close:()=>t.request(!1),getSnapshot:()=>{let e=t.getState();return e!==r&&(r=e,i=n(e)),i},subscribe:t.subscribe}}function n(e){return{open:e.open,payload:e.payload?{value:e.payload.value}:null,opener:e.opener}}export{t};

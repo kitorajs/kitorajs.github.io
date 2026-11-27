@@ -1,0 +1,1 @@
+import{_i as e,zc as t}from"./index-BZuUy872.js";var n=t();function r({className:t,...r}){return(0,n.jsx)(`div`,{"data-slot":`skeleton`,className:e(`animate-pulse motion-reduce:animate-none rounded-[var(--dk-skeleton-radius,calc(var(--radius)*1))] bg-[color:var(--dk-skeleton-bg,var(--muted))]`,t),...r})}export{r as t};

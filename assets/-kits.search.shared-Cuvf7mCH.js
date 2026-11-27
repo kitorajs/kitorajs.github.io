@@ -1,0 +1,1 @@
+import{_i as e,zc as t}from"./index-BZuUy872.js";var n=t();function r({children:t,height:r,testId:i,className:a}){return(0,n.jsx)(`div`,{"data-testid":i,className:e(`relative rounded-xl border bg-background shadow-sm`,r?`overflow-hidden`:`p-3`,a),style:r?{height:r}:void 0,children:t})}export{r as t};

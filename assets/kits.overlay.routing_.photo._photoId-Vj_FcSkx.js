@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/kits.overlay.routing_.photo._photoId-DA4BujOU.js"])))=>i.map(i=>d[i]);
+import{Ac as e,Ec as t,kc as n}from"./index-BZuUy872.js";var r=e(`/kits/overlay/routing_/photo/$photoId`)({component:n(()=>t(()=>import(`./kits.overlay.routing_.photo._photoId-DA4BujOU.js`),__vite__mapDeps([0])),`component`)});export{r as t};

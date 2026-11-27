@@ -1,1 +1,0 @@
-import{Ic as e,hi as t}from"./index-9y5uwRd3.js";var n=e();function r({children:e,height:r,testId:i,className:a}){return(0,n.jsx)(`div`,{"data-testid":i,className:t(`relative overflow-hidden rounded-xl border bg-background shadow-sm`,a),style:{height:r},children:e})}export{r as t};

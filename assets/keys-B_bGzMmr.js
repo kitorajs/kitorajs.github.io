@@ -1,0 +1,1 @@
+import{Sc as e,vc as t,xc as n,yc as r}from"./index-BZuUy872.js";function i(t,r,i){let a=e(t,{orientation:`both`});return a===null?null:n(a,r,{count:i})}function a(e,n,i,a){let o=r(e);return o===null?null:t(o,n,{count:i,columns:a})}export{i as n,a as t};

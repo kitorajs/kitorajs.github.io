@@ -1,1 +1,0 @@
-import{t as e}from"./kit-docs-CvNs0WqT.js";import{Ic as t}from"./index-9y5uwRd3.js";import{t as n}from"./kits.datagrid.docs._topic-CTnhNKHy.js";import"./kit-gallery-B-Yr9fP4.js";var r=t();function i(){let{topic:t}=n.useParams();return(0,r.jsx)(e,{gallery:`/kits/datagrid`,topic:t})}export{i as component};

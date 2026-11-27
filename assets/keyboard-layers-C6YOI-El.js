@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-S-ySWqyJ.js";import{Br as t,Uc as n}from"./index-BZuUy872.js";function r(e){return{activeLayerId(){let t=e.top();return t?t.name??t.id:null},subscribe:t=>e.subscribe(t)}}var i=e(n(),1);function a(){let e=t()?.stack??null;return(0,i.useMemo)(()=>e?r(e):null,[e])}export{a as t};

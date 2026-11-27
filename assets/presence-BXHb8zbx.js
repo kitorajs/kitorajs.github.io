@@ -1,0 +1,1 @@
+import{Xo as e}from"./index-BZuUy872.js";function t(t){return e(t)}export{t};

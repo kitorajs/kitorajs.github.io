@@ -1,1 +1,0 @@
-import{r as e}from"./rolldown-runtime-S-ySWqyJ.js";import{Bc as t,Ic as n}from"./index-9y5uwRd3.js";import{s as r}from"./validate-BWHY_AUA.js";var i=e(t(),1),a=n(),o=(0,i.createContext)(r);function s({formatters:e,children:t}){return(0,a.jsx)(o.Provider,{value:{...r,...e},children:t})}function c(){return(0,i.useContext)(o)}export{c as n,s as t};

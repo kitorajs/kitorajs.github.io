@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/kits.tabster.docs._topic-CWWWYbPM.js"])))=>i.map(i=>d[i]);
-import{Cc as e,Dc as t,Ec as n}from"./index-9y5uwRd3.js";var r=t(`/kits/tabster/docs/$topic`)({component:n(()=>e(()=>import(`./kits.tabster.docs._topic-CWWWYbPM.js`),__vite__mapDeps([0])),`component`)});export{r as t};

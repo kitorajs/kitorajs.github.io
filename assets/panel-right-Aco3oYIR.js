@@ -1,1 +1,0 @@
-import{Mi as e}from"./index-9y5uwRd3.js";var t=e(`panel-right`,[[`rect`,{width:`18`,height:`18`,x:`3`,y:`3`,rx:`2`,key:`afitv7`}],[`path`,{d:`M15 3v18`,key:`14nvp0`}]]);export{t};

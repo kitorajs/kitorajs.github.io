@@ -1,0 +1,1 @@
+import{W as e}from"./time-CHK0yuAm.js";import{Ko as t,Wo as n}from"./index-BZuUy872.js";function r(r){let i=t(r),a=n();return e(i,new Date(a))}export{r as t};

@@ -1,1 +1,0 @@
-import{Pn as e,Tr as t}from"./index-9y5uwRd3.js";function n(){return e()}function r(e,n){return t(e,n)}export{n,r as t};

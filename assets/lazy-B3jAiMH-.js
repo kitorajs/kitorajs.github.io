@@ -1,0 +1,3 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/editor-Bnp4FIuE.js"])))=>i.map(i=>d[i]);
+import{r as e}from"./rolldown-runtime-S-ySWqyJ.js";import{Ec as t,Uc as n,zc as r}from"./index-BZuUy872.js";import{a as i}from"./shell-FNzHunqu.js";var a=e(n(),1),o=r(),s=20,c=16,l=(0,a.lazy)(()=>t(()=>import(`./editor-Bnp4FIuE.js`).then(e=>e.f).then(e=>({default:e.CodeEditorPreset})),__vite__mapDeps([0])));function u(e){let t=(e.value??e.defaultValue??``).split(`
+`).length;return(0,o.jsx)(a.Suspense,{fallback:(0,o.jsx)(i,{kind:`code`,header:e.header??e.filename!==void 0?`code`:!1,statusBar:e.statusBar!==!1,bodyStyle:{height:e.height??t*s+c,minHeight:e.minHeight,maxHeight:e.maxHeight},className:e.className}),children:(0,o.jsx)(l,{...e})})}export{u as t};

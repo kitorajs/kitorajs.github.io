@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/kits.datagrid.docs._topic-Cl2beHGB.js"])))=>i.map(i=>d[i]);
+import{Ac as e,Ec as t,kc as n}from"./index-BZuUy872.js";var r=e(`/kits/datagrid/docs/$topic`)({component:n(()=>t(()=>import(`./kits.datagrid.docs._topic-Cl2beHGB.js`),__vite__mapDeps([0])),`component`)});export{r as t};

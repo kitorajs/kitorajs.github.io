@@ -1,0 +1,1 @@
+import{_i as e,zc as t}from"./index-BZuUy872.js";var n=t();function r({children:t,testId:r,className:i}){return(0,n.jsx)(`div`,{"data-testid":r,className:e(`relative rounded-xl border bg-background p-4`,i),children:t})}export{r as t};
